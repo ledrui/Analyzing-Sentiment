@@ -1,0 +1,400 @@
+Pointers
+------------
+0x7f634e6ac6dc
+0x7f634decaba9
+0x7f634eef2619
+0x7f634ef435e3
+0x7f634f4a72f1
+Raw
+------------
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(_Z18__print_back_tracev+0x8c) [0x7f634e6ac6dc]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9) [0x7f634decaba9]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619) [0x7f634eef2619]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3) [0x7f634ef435e3]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1) [0x7f634f4a72f1]
+
+Demangled
+------------
+__print_back_trace()
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9)
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619)
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3)
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f634e6ac6dc
+0x7f634decaba9
+0x7f634eef2619
+0x7f634ef435e3
+0x7f634f4a72f1
+Raw
+------------
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(_Z18__print_back_tracev+0x8c) [0x7f634e6ac6dc]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9) [0x7f634decaba9]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619) [0x7f634eef2619]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3) [0x7f634ef435e3]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1) [0x7f634f4a72f1]
+
+Demangled
+------------
+__print_back_trace()
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9)
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619)
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3)
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f634e6ac6dc
+0x7f634decaba9
+0x7f634eef2619
+0x7f634ef435e3
+0x7f634f4a72f1
+Raw
+------------
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(_Z18__print_back_tracev+0x8c) [0x7f634e6ac6dc]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9) [0x7f634decaba9]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619) [0x7f634eef2619]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3) [0x7f634ef435e3]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1) [0x7f634f4a72f1]
+
+Demangled
+------------
+__print_back_trace()
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9)
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619)
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3)
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f634e6ac6dc
+0x7f634decaba9
+0x7f634eef2619
+0x7f634ef435e3
+0x7f634f4a72f1
+Raw
+------------
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(_Z18__print_back_tracev+0x8c) [0x7f634e6ac6dc]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9) [0x7f634decaba9]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619) [0x7f634eef2619]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3) [0x7f634ef435e3]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1) [0x7f634f4a72f1]
+
+Demangled
+------------
+__print_back_trace()
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9)
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619)
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3)
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f634e6ac6dc
+0x7f634decaba9
+0x7f634eef2619
+0x7f634ef435e3
+0x7f634f4a72f1
+Raw
+------------
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(_Z18__print_back_tracev+0x8c) [0x7f634e6ac6dc]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9) [0x7f634decaba9]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619) [0x7f634eef2619]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3) [0x7f634ef435e3]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1) [0x7f634f4a72f1]
+
+Demangled
+------------
+__print_back_trace()
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9)
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619)
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3)
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f634e6ac6dc
+0x7f634decaba9
+0x7f634eef2619
+0x7f634ef435e3
+0x7f634f4a72f1
+Raw
+------------
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(_Z18__print_back_tracev+0x8c) [0x7f634e6ac6dc]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9) [0x7f634decaba9]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619) [0x7f634eef2619]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3) [0x7f634ef435e3]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1) [0x7f634f4a72f1]
+
+Demangled
+------------
+__print_back_trace()
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9)
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619)
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3)
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f634e6ac6dc
+0x7f634decaba9
+0x7f634eef2619
+0x7f634ef435e3
+0x7f634f4a72f1
+Raw
+------------
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(_Z18__print_back_tracev+0x8c) [0x7f634e6ac6dc]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9) [0x7f634decaba9]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619) [0x7f634eef2619]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3) [0x7f634ef435e3]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1) [0x7f634f4a72f1]
+
+Demangled
+------------
+__print_back_trace()
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9)
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619)
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3)
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f634e6ac6dc
+0x7f634decaba9
+0x7f634eef2619
+0x7f634ef435e3
+0x7f634f4a72f1
+Raw
+------------
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(_Z18__print_back_tracev+0x8c) [0x7f634e6ac6dc]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9) [0x7f634decaba9]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619) [0x7f634eef2619]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3) [0x7f634ef435e3]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1) [0x7f634f4a72f1]
+
+Demangled
+------------
+__print_back_trace()
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9)
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619)
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3)
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f634e6ac6dc
+0x7f634decaba9
+0x7f634eef2619
+0x7f634ef435e3
+0x7f634f4a72f1
+Raw
+------------
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(_Z18__print_back_tracev+0x8c) [0x7f634e6ac6dc]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9) [0x7f634decaba9]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619) [0x7f634eef2619]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3) [0x7f634ef435e3]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1) [0x7f634f4a72f1]
+
+Demangled
+------------
+__print_back_trace()
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9)
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619)
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3)
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f634e6ac6dc
+0x7f634decaba9
+0x7f634eef2619
+0x7f634ef435e3
+0x7f634f4a72f1
+Raw
+------------
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(_Z18__print_back_tracev+0x8c) [0x7f634e6ac6dc]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9) [0x7f634decaba9]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619) [0x7f634eef2619]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3) [0x7f634ef435e3]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1) [0x7f634f4a72f1]
+
+Demangled
+------------
+__print_back_trace()
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9)
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619)
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3)
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f634e6ac6dc
+0x7f634decaba9
+0x7f634eef2619
+0x7f634ef435e3
+0x7f634f4a72f1
+Raw
+------------
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(_Z18__print_back_tracev+0x8c) [0x7f634e6ac6dc]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9) [0x7f634decaba9]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619) [0x7f634eef2619]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3) [0x7f634ef435e3]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1) [0x7f634f4a72f1]
+
+Demangled
+------------
+__print_back_trace()
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9)
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619)
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3)
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f634e6ac6dc
+0x7f634decaba9
+0x7f634eef2619
+0x7f634ef435e3
+0x7f634f4a72f1
+Raw
+------------
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(_Z18__print_back_tracev+0x8c) [0x7f634e6ac6dc]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9) [0x7f634decaba9]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619) [0x7f634eef2619]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3) [0x7f634ef435e3]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1) [0x7f634f4a72f1]
+
+Demangled
+------------
+__print_back_trace()
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9)
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619)
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3)
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f634e6ac6dc
+0x7f634decaba9
+0x7f634eef2619
+0x7f634ef435e3
+0x7f634f4a72f1
+Raw
+------------
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(_Z18__print_back_tracev+0x8c) [0x7f634e6ac6dc]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9) [0x7f634decaba9]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619) [0x7f634eef2619]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3) [0x7f634ef435e3]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1) [0x7f634f4a72f1]
+
+Demangled
+------------
+__print_back_trace()
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9)
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619)
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3)
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f634e6ac6dc
+0x7f634decaba9
+0x7f634eef2619
+0x7f634ef435e3
+0x7f634f4a72f1
+Raw
+------------
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(_Z18__print_back_tracev+0x8c) [0x7f634e6ac6dc]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9) [0x7f634decaba9]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619) [0x7f634eef2619]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3) [0x7f634ef435e3]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1) [0x7f634f4a72f1]
+
+Demangled
+------------
+__print_back_trace()
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9)
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619)
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3)
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f634e6ac6dc
+0x7f634decaba9
+0x7f634eef2619
+0x7f634ef435e3
+0x7f634f4a72f1
+Raw
+------------
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(_Z18__print_back_tracev+0x8c) [0x7f634e6ac6dc]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9) [0x7f634decaba9]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619) [0x7f634eef2619]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3) [0x7f634ef435e3]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1) [0x7f634f4a72f1]
+
+Demangled
+------------
+__print_back_trace()
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9)
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619)
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3)
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f634e6ac6dc
+0x7f634decaba9
+0x7f634eef2619
+0x7f634ef435e3
+0x7f634f4a72f1
+Raw
+------------
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(_Z18__print_back_tracev+0x8c) [0x7f634e6ac6dc]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9) [0x7f634decaba9]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619) [0x7f634eef2619]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3) [0x7f634ef435e3]
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1) [0x7f634f4a72f1]
+
+Demangled
+------------
+__print_back_trace()
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x359ba9)
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x1381619)
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x13d25e3)
+/home/zax/anaconda/lib/python2.7/site-packages/graphlab/libunity_shared.so(+0x19362f1)
+-------------------------------------------------------
+
+
